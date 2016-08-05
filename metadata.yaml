@@ -1,0 +1,27 @@
+_repo: Billy-Bunny-and-Uncle-Bull-Frog_5947
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cory, David
+    alias: Cory, David Magie
+    birthdate: 1872
+    deathdate: 1966
+    gutenberg_agent_id: '871'
+    url: http://www.gutenberg.org/2009/agents/871
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Frogs -- Juvenile fiction'
+- !lcsh 'Rabbits -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- GITenberg
+title: Billy Bunny and Uncle Bull Frog
+url: http://www.gutenberg.org/ebooks/5947
